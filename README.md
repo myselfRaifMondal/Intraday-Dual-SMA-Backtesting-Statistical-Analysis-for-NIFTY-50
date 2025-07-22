@@ -204,7 +204,7 @@ This project is open-sourced under the MIT License—see [LICENSE](LICENSE) for 
 
 ## Author / Contact
 
-**Shubham A.**  
+**Shubh Shrishrimal.**  
 For questions or collaborations, open an [issue](https://github.com/shubh123a3/Intraday-Dual-SMA-Backtesting-Statistical-Analysis-for-NIFTY-50/issues) or connect via LinkedIn.
 
 ---
@@ -238,14 +238,7 @@ Months Profitable: 63%
 ---
 
 *For reproducibility and extension, detailed analysis and all code are available in `app.py`.*
-```
-
-[1] https://github.com/shubh123a3/Intraday-Dual-SMA-Backtesting-Statistical-Analysis-for-NIFTY-50/tree/master
-[2] https://github.com/deshwalmahesh/NSE-Stock-Scanner
-[3] https://github.com/pkjmesra/PKScreener
-[4] https://github.com/aeron7/nifty-banknifty-intraday-data
-[5] https://github.com/beastytitan18/nifty50-statistical-arbitrage
-[6] https://www.marketcalls.in/python/vectorbt-streamlit-backtesting-app-python-tutorial.html
+tps://www.marketcalls.in/python/vectorbt-streamlit-backtesting-app-python-tutorial.html
 [7] https://blog.quantinsti.com/epat-project-machine-learning-intraday-buy-sell-signals-cryptocurrency/
 [8] https://github.com/buzzsubash/algo_trading_strategies_india
 [9] https://www.reddit.com/r/algotrading/comments/1fi83nx/python_librarybacktesting/
