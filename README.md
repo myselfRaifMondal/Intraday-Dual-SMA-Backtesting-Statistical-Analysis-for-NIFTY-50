@@ -1,5 +1,6 @@
 
 # Intraday Dual SMA Backtesting & Statistical Analysis for NIFTY 50
+<img width="2500" height="1800" alt="dual_sma_dash_board" src="https://github.com/user-attachments/assets/5e5c7009-33f0-4e2e-b4fd-1892b67a14ea" />
 
 A comprehensive and extensible Python project to backtest single and dual Simple Moving Average (SMA) crossover strategies on 10 years of minute-wise NIFTY 50 data, with advanced statistics, risk/return metrics, rich visualization, and professional reporting.
 
