@@ -236,10 +236,3 @@ Months Profitable: 63%
 ```
 
 ---
-
-*For reproducibility and extension, detailed analysis and all code are available in `app.py`.*
-tps://www.marketcalls.in/python/vectorbt-streamlit-backtesting-app-python-tutorial.html
-[7] https://blog.quantinsti.com/epat-project-machine-learning-intraday-buy-sell-signals-cryptocurrency/
-[8] https://github.com/buzzsubash/algo_trading_strategies_india
-[9] https://www.reddit.com/r/algotrading/comments/1fi83nx/python_librarybacktesting/
-[10] https://github.com/SubhamIO/Stock-Market-Prediction-using-LSTM/blob/master/NIFTY50%20STOCK%20PREDICTION.ipynb
