@@ -53,9 +53,25 @@ This repository contains Python code, workflow, and results for robustly benchma
 
 ### 3. How to Run
 
+### Setting up a virtual environment.
+**Windows**
+
+```
+pip install virtualenv
+virtualenv env
+.\env\Scripts\activate.bat
+```
+**Mac / Linux**
+```
+
+python3 -m venv env
+source env/bin/activate
+```
+**Installing the files**
 ```
 git clone https://github.com/shubh123a3/Intraday-Dual-SMA-Backtesting-Statistical-Analysis-for-NIFTY-50.git
 cd Intraday-Dual-SMA-Backtesting-Statistical-Analysis-for-NIFTY-50
+pip install -r requirements.txt
 python app.py
 ```
 - All main analytics run from `app.py`. Results, tables, and plots are saved in the working directory.
