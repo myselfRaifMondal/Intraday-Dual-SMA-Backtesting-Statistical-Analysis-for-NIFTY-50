@@ -8,3 +8,4 @@ seaborn
 plotly
 datetime
 kaggle
+statsmodels
